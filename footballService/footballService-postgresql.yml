@@ -1,3 +1,5 @@
+server:
+  port: 8092
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/sports_data
