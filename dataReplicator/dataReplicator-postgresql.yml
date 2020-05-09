@@ -4,7 +4,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/sports_data
     username: postgres
-    password: bookmaker
+    password: postgres
     validationQuery: SELECT 1
     hikari:
       maximum-pool-size: 48
